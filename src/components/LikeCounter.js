@@ -12,4 +12,4 @@ class LikeCounter extends Component {
     }
 }
 
-export default withCounter(LikeCounter)
+export default withCounter(LikeCounter,1)
